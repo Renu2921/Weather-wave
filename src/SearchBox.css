@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(185, 170, 170)
+}
+.SearchBox{
+    text-align: center;
+    /* border: 2px solid pink; */
+    margin-bottom: 20px;
+
+ } 
+ #city{
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 0 4px black;
+    
+    
+ }

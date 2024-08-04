@@ -1,0 +1,10 @@
+.InfoBox{
+    margin: 3px;
+    /* border: 2px solid black; */
+    border-radius: 7px;
+}
+
+.side{
+    display: flex;
+    gap: 100px;
+}
